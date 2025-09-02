@@ -1,7 +1,5 @@
 requests
 beautifulsoup4
-re
-pyDes 
-pycryptodome 
+
 
 
